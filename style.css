@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f0ff;
+  color: #222;
+  padding: 30px;
+}
+
+h1 {
+  color: purple;
+}
+
+button {
+  background: purple;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 6px;
+}
